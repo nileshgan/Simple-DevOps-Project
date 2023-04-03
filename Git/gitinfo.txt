@@ -10,4 +10,8 @@ Below are syntax for Git:-
 7) git statsh
 8) git rebase --continue
 9) git revert
+10) git branch 
+11) git checkout -b branchname
+12) git checkout branchname
+
  

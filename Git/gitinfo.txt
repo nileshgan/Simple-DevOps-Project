@@ -1,0 +1,13 @@
+Git is very much useable tool.
+Using Git you can add commit the changes in to the GitHub Repository.
+Below are syntax for Git:-
+1) git status 
+2) git add .
+3) git commit -m "commit info"
+4) git log
+5) git log --oneline
+6) git log -pretty=oneline
+7) git statsh
+8) git rebase --continue
+9) git revert
+ 
